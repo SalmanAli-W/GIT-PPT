@@ -1,0 +1,8 @@
+1) How to add multiple files to staging area
+Ans: git add .
+This will add all the modified files in working directory to staging area
+
+1.5) How to add selected files to staging area. Ex: 2 out of 5 files
+
+2) How to commit 1 file when many files are available in staging area
+
